@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "journal du capitaine"
+theme = 'hestia-pure'
+
+
+[author]
+author = "tiru"
+profile = "Captain's Log Startdate"
