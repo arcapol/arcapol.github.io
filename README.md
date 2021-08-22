@@ -5,21 +5,21 @@ My writing does not match, unfortunately, any of the qualities mentioned above. 
 
 This blog then is not a treasure trove of knowledge but a story with no beginning nor an end. You do not know the protagonist of this story. They are both the author and the hero of this story. You can only gauge them through the pieces they write. As a final thought, I would like to leave you with the following excerpt : 
 
+<pre>
 ```
 Listen.
 
-If someone tells you what a story is about, 
-they are probably right.
+If someone tells you what a story is about, they are 
+probably right.
 
-If they tell you that that is all the story
-is about, they are very definitely wrong.
-Any story is about a host of things. It is 
-about the author; it is about the world the 
-author sees and deals with and lives in; it 
-is about the words chosen and the way those 
-words are deployed; it is about the story itself 
-and what happens in the story; it is about the 
-people in the story; it is polemic; it is opinion.
+If they tell you that that is all the storyis about, 
+they are very definitely wrong.Any story is about a 
+host of things. It is about the author; it is about
+the world the author sees and deals with and lives in;
+it is about the words chosen and the way those words 
+are deployed; it is about the story itself and what 
+happens in the story; it is about the people in the 
+story; it is polemic; it is opinion.
 
 An author’s opinions of what a story is about are 
 always valid and are always true: the author was 
@@ -28,7 +28,7 @@ She came up with each word and knows why she used
 that word instead of another. But an author is a 
 creature of her time, and even she cannot see 
 everything that her book is about.
-                                      			- Neil Gaiman 
+                                      Neil Gaiman 
 ```
-
+</pre>
 
