@@ -15,9 +15,11 @@ params:
   ShowCodeCopyButtons: true
   comments: false
   ShowShareButtons: true
+  ShowWordCount: true
 
   assets:
-    favicon: "icons8-bird.gif"
+    favicon: "icons8-owl-48.png"
+    homeIcon: "icons8-tardis-48.png"
   
   # profileMode:
   #   enabled: false
@@ -42,10 +44,10 @@ menu:
       name: archives
       url: /archives/
       weight: 20
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
+    # - identifier: categories
+    #   name: categories
+    #   url: /categories/
+    #   weight: 10
     - identifier: tags
       name: tags
       url: /tags/

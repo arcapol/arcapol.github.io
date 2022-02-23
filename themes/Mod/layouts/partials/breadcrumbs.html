@@ -2,8 +2,8 @@
 <div class="breadcrumbs">
     {{- $url := replace .Parent.Permalink (printf "%s" .Site.BaseURL) "" }}
     {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
-
-    <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
+    <img src="{{ .Site.Params.assets.homeIcon | default " favicon-16x16.png" | absURL }}" width="24" height="20">
+    <a href="{{ "" | absLangURL }}"><span>{{ i18n "home" | default "Home" }}</span></a>
     {{- $scratch := newScratch }}
     {{- range $index, $element := split $lang_url "/" }}
 
