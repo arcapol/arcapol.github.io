@@ -1,30 +1,36 @@
 baseURL: "https://arcapol.github.io"
 title: "Aiwayi Arca"
 theme: Mod
+paginate: 5
 
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 
 params:
   title: "Aiwayi Arca"
   description: "General Rant"
   author: arcapol
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  comments: false
+  ShowShareButtons: true
 
   assets:
     favicon: "icons8-bird.gif"
   
-  profileMode:
-    enabled: false
-    title: "Aiwayi Arca"
-    buttons:
-    - name: Posts
-      url: posts
-    - name: tags
-      url: tags
+  # profileMode:
+  #   enabled: false
+  #   title: "Aiwayi Arca"
+  #   buttons:
+  #   - name: Posts
+  #     url: posts
+  #   - name: tags
+  #     url: tags
 
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: Welcome to my blog
 
   socialIcons:
     - name: twitter
@@ -32,10 +38,10 @@ params:
 
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: /posts/
-      weight: 10
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 20
     - identifier: categories
       name: categories
       url: /categories/
@@ -43,4 +49,8 @@ menu:
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 10
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 30
