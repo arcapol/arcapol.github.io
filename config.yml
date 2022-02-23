@@ -1,0 +1,46 @@
+baseURL: "https://arcapol.github.io"
+title: "Aiwayi Arca"
+theme: Mod
+
+enableRobotsTXT: true
+buildDrafts: false
+
+params:
+  title: "Aiwayi Arca"
+  description: "General Rant"
+  author: arcapol
+
+  assets:
+    favicon: "icons8-bird.gif"
+  
+  profileMode:
+    enabled: false
+    title: "Aiwayi Arca"
+    buttons:
+    - name: Posts
+      url: posts
+    - name: tags
+      url: tags
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/arcapolshara"
+
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20

@@ -2,6 +2,8 @@
 title: "Evaporate"
 date: 2022-02-24T00:58:07+05:30
 draft: false
+tags: ["fiction"]
+categories: "random"
 ---
 “It is over, you should move on”. The words still ring in my ears. I hear it in  the cacophony of a wedding, I hear it in the silence of night, I hear it waking up, I hear it laying down. There were a hundred lines left to say, a thousand moments to look upon and her words tore apart a movie which could have been.
 
