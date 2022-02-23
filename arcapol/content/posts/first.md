@@ -1,3 +1,9 @@
+---
+title: "First"
+date: 2022-02-24T00:08:51+05:30
+draft: false
+---
+
 
 I have always been afraid of writing. I always regard authors with high respect. The articles or books they write are well researched and thought out and the writing flows as a conversation into the reader’s mind. 
 
@@ -5,7 +11,7 @@ My writing does not match, unfortunately, any of the qualities mentioned above. 
 
 This blog then is not a treasure trove of knowledge but a story with no beginning nor an end. You do not know the protagonist of this story. They are both the author and the hero of this story. You can only gauge them through the pieces they write. As a final thought, I would like to leave you with the following excerpt : 
 
-<pre>
+```
 
 Listen.
 
@@ -29,5 +35,5 @@ that word instead of another. But an author is a
 creature of her time, and even she cannot see 
 everything that her book is about.
                                      - Neil Gaiman 
-</pre>
+```
 
