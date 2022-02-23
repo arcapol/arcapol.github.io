@@ -2,3 +2,9 @@ baseURL = 'https://arcapol.github.io'
 languageCode = 'en-us'
 title = 'Aiwayi Arca'
 theme = 'Mod'
+
+enableRobotsTXT = true
+buildDrafts = false
+
+[assets]
+favicon = "/images/icons8-birds.gif"
