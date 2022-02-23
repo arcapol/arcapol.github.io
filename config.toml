@@ -8,3 +8,7 @@ buildDrafts = false
 
 [assets]
 favicon = "/images/icons8-birds.gif"
+
+[socialIcons]
+name = "twitter"
+url = "https://twitter.com/arcapolshara"
