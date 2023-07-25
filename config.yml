@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: true
 
 params:
+  env: production
   title: "Aiwayi Arca"
   description: "General Rant"
   author: arcapol
@@ -14,7 +15,8 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   comments: false
-  ShowShareButtons: true
+  ShowShareButtons: false
+  ShareButtons: ["twitter"]
   ShowWordCount: true
 
   assets:
@@ -34,9 +36,9 @@ params:
   #   Title: "Hi there \U0001F44B"
   #   Content: Welcome to my blog
 
-  # socialIcons:
-  #   - name: twitter
-  #     url: "https://twitter.com/arcapolshara"
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/arcapolshara"
 
 menu:
   main:
