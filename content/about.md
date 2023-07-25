@@ -6,6 +6,7 @@ hideMeta: true
 disableShare: true
 ---
 
+[![github pages](https://github.com/arcapol/arcapol.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/arcapol/arcapol.github.io/actions/workflows/gh-pages.yml)
 
 I have always been afraid of writing. I always regard authors with high respect. The articles or books they write are well researched and thought out and the writing flows as a conversation into the reader’s mind. 
 
