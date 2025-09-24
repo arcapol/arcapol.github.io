@@ -1,7 +1,7 @@
 baseURL: "https://arcapol.github.io"
 title: "Aiwayi Arca"
 theme: Mod
-paginate: 5
+pagination.pagerSize: 5
 
 enableRobotsTXT: true
 buildDrafts: true
