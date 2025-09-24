@@ -1,7 +1,7 @@
 ---
 title: "Modern Day Arjuna 1"
 date: 2024-02-12T14:12:53+05:30
-draft: true
+draft: false
 ---
 
 This is my first post of a series where I go in detail about my learnings from The Bhagavad Gita[^1]. I intend to write it in a form of a dialogue between Modern Day Arjuna and Krishna. However, this should not be misconstriued as a commentary on religion or even on the Gita. This is my understanding, and as such the problems that I will enumerate are my problems. I am writing this to understand how Gita will solve my 21st Century problems.
