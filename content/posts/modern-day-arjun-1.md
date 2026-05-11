@@ -12,6 +12,6 @@ This is my first post of a series where I go in detail about my learnings from T
 
 **M.A.:** Fair enough, let us start from the beginning. I did not choose to take birth. Now that I am here, why should I do anything. Why bother working at all?
 
-**Krishna:** 
+**Krishna:** Let us try to resolve birth later, but now that you are here, why not act? Not acting is also an act. It is not as if the moment you decide to not act, life stops happening in you or around you.When a soul takes birth it is under certain circumstances. Your aim should be better your life and the life of the people around you. 
 
 [^1]: My learnings are based on the Geeta Rahasya by Bal Gangadhar Tilak. Interested readers who want to deep dive can get a copy form [here](https://archive.org/details/SrimadBhagavadGitaRahasya-BgTilak-Volumes1And2). A few of the pages are missing or in an unreadable form. Readers can refer to the Hindi copy for completion.
